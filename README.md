@@ -18,5 +18,11 @@ Collection <br>
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/db6dfcd5-998e-4b2f-9339-2d2ea81472fa" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0aa20344-ef10-401c-9004-7e2f2894147a" />
 
+Conditional expressions <br>
+-If
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fe7c8fe2-9981-4452-b5b3-1f25cef4430e" />
+-When
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/807db5df-3739-405d-a005-ba505654d6c7" />
+
 
 
