@@ -54,6 +54,18 @@ Data Classes <br>
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/53c471f1-c112-42d9-b746-02bf76897910" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1b67caae-917d-47bc-af4a-079c02013775" />
 
+Null Safety <br>
+-Nullable types
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d617a3f6-8d8a-4dfc-a1e2-31c1e4e036aa" />
+-Check forr null values
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52d295e1-59c7-4b7e-b99e-e4724e557e3a" />
+-Use safe calls
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/d9c17a07-a60c-4424-a348-71b8556d244a" />
+-Use Elvis operator
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0860554e-673b-4d93-9648-9391e3225a04" />
+
+
+
 
 
 
