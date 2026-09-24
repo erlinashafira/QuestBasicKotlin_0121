@@ -31,6 +31,23 @@ Loops <br>
 Functions <br>
 <img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/1e9eada7-2ca3-4c11-838b-553da0f2cc98" />
 
+Named Argumen
+<img width="1897" height="1066" alt="image" src="https://github.com/user-attachments/assets/da374ae0-d2d2-4a15-97ed-886a4720304c" />
+
+Default parameter values
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/213cd9df-f4b5-46c4-a71f-fbf9779160fa" />
+
+Function without returns
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/47b5d1fc-b05a-4a64-8121-1c90c349f00d" />
+
+Lambda Expressions
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0bfeac60-088e-4837-a0b7-ee826fa5f339" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9f4072da-f062-4285-a733-328999410b7d" />
+
+
+
+
+
 
 
 
