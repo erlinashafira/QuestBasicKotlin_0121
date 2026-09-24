@@ -28,6 +28,9 @@ Loops <br>
 -For
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8118a89a-059b-4c6b-9e5a-889676ee4564" />
 
+Functions <br>
+<img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/1e9eada7-2ca3-4c11-838b-553da0f2cc98" />
+
 
 
 
