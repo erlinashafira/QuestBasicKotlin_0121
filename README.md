@@ -44,6 +44,18 @@ Lambda Expressions
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0bfeac60-088e-4837-a0b7-ee826fa5f339" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9f4072da-f062-4285-a733-328999410b7d" />
 
+Class <br>
+-Access properties
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b05285cd-4412-4095-b293-7abb0e58b275" />
+-Member Functions
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3b8bf4e8-82f3-4d46-8250-a84931c1e470" />
+
+Data Classes <br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/53c471f1-c112-42d9-b746-02bf76897910" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1b67caae-917d-47bc-af4a-079c02013775" />
+
+
+
 
 
 
