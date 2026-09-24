@@ -24,5 +24,11 @@ Conditional expressions <br>
 -When
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/807db5df-3739-405d-a005-ba505654d6c7" />
 
+Loops <br>
+-For
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8118a89a-059b-4c6b-9e5a-889676ee4564" />
+
+
+
 
 
